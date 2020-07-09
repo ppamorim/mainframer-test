@@ -1,0 +1,10 @@
+.git
+.github
+.mainframer
+.idea
+mainframer
+art
+config
+README.md
+Gemfile.lock
+Gemfile
